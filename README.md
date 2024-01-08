@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @souravg29
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning .NET MVC, WEB API, ANGULAR
-- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me https://in.linkedin.com/in/iamsourav37
 
 
